@@ -1,0 +1,72 @@
+[
+  {
+    "CustomSettingName": "New",
+    "CustomWorkPeriod": 2,
+    "CustomShortBreakPeriod": 3,
+    "CustomLongBreakPeriod": 4,
+    "CustomCycleLength": 5
+  },
+  {
+    "CustomSettingName": "2e",
+    "CustomWorkPeriod": 4,
+    "CustomShortBreakPeriod": 5,
+    "CustomLongBreakPeriod": 6,
+    "CustomCycleLength": 7
+  },
+  {
+    "CustomSettingName": "er",
+    "CustomWorkPeriod": 4,
+    "CustomShortBreakPeriod": 4,
+    "CustomLongBreakPeriod": 4,
+    "CustomCycleLength": 4
+  },
+  {
+    "CustomSettingName": "4",
+    "CustomWorkPeriod": 5,
+    "CustomShortBreakPeriod": 5,
+    "CustomLongBreakPeriod": 5,
+    "CustomCycleLength": 5
+  },
+  {
+    "CustomSettingName": "NewSetting",
+    "CustomWorkPeriod": 15,
+    "CustomShortBreakPeriod": 5,
+    "CustomLongBreakPeriod": 10,
+    "CustomCycleLength": 3
+  },
+  {
+    "CustomSettingName": "22",
+    "CustomWorkPeriod": 2,
+    "CustomShortBreakPeriod": 2,
+    "CustomLongBreakPeriod": 22,
+    "CustomCycleLength": 2
+  },
+  {
+    "CustomSettingName": "new5",
+    "CustomWorkPeriod": 4,
+    "CustomShortBreakPeriod": 5,
+    "CustomLongBreakPeriod": 6,
+    "CustomCycleLength": 7
+  },
+  {
+    "CustomSettingName": "dafa",
+    "CustomWorkPeriod": 4,
+    "CustomShortBreakPeriod": 5,
+    "CustomLongBreakPeriod": 6,
+    "CustomCycleLength": 7
+  },
+  {
+    "CustomSettingName": "f",
+    "CustomWorkPeriod": 4,
+    "CustomShortBreakPeriod": 4,
+    "CustomLongBreakPeriod": 4,
+    "CustomCycleLength": 4
+  },
+  {
+    "CustomSettingName": "amanuel",
+    "CustomWorkPeriod": 4,
+    "CustomShortBreakPeriod": 4,
+    "CustomLongBreakPeriod": 4,
+    "CustomCycleLength": 4
+  }
+]
